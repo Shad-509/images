@@ -242,7 +242,7 @@ h6 {
 
 #showcase:before {
   content: '';
-  background: url('../img/reflections.JPG') no-repeat center center/cover;
+  background: url('../img/reflections.jpg') no-repeat center center/cover;
   position: absolute;
   top: 0;
   left: 0;
